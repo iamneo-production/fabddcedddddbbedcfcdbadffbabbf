@@ -1,1 +1,0 @@
-import Stopwatch from './components/Stopwatch/Stopwatch';

@@ -1,12 +1,11 @@
 import Stopwatch from './components/Stopwatch/Stopwatch';
 
-function App()
-{
- return(
+function App() {
+  return (
     <div>
-        <Stopwatch/>
+      <Stopwatch/>
     </div>
- );
+  );
 }
 
 export default App;
